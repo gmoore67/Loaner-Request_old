@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Customer Response">7b15fb13cc9312007f4425b7845daf02</application>
+        <filter/>
+        <name>Customer Responses</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_cpr_customer_response_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-15 23:15:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4025fb13cc9312007f4425b7845daf03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Responses</sys_name>
+        <sys_package display_value="CPR" source="x_snc_cpr">4ab47b13cc9312007f4425b7845dafcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CPR">4ab47b13cc9312007f4425b7845dafcb</sys_scope>
+        <sys_update_name>sys_ui_module_4025fb13cc9312007f4425b7845daf03</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-15 23:15:39</sys_updated_on>
+        <table>x_snc_cpr_customer_response</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
